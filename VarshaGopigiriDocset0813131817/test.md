@@ -1,3 +1,6 @@
+
+## Set up Accounts receivable
+
 :::row:::
     :::column:::
         - [Accounting distributions and subledger journal entries for free text invoices](accounting-distributions-subledger-journal-entries-free-text-invoices.md)
