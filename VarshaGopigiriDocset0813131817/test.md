@@ -12,13 +12,11 @@
 :::row-end:::
 
 :::row:::
-    :::column:::
-        ![Some image](http://via.placeholder.com/1000x150)
+    :::column::
         ### Hello, title
         This is where your content goes.
     :::column-end:::
-    :::column:::
-        ![Some image](http://via.placeholder.com/1000x150)
+    :::column::
         ### Hello, title
         This is where your content goes.
     :::column-end:::
